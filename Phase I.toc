@@ -1,0 +1,36 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{2}
+\contentsline {section}{\numberline {1.1}Sign and Symptoms:}{2}
+\contentsline {chapter}{\numberline {2}Machine Learning}{5}
+\contentsline {section}{\numberline {2.1}What is Machine Learning?}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {section}{\numberline {2.2}What does it do? }{5}
+\contentsline {paragraph}{}{5}
+\contentsline {section}{\numberline {2.3}Evolution of Machines}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {section}{\numberline {2.4}Types of Machine Learning}{6}
+\contentsline {subsection}{\numberline {2.4.1}Supervised Learning}{6}
+\contentsline {subsection}{\numberline {2.4.2}Unsupervised Learning}{7}
+\contentsline {subsection}{\numberline {2.4.3}Reinforcement Learning}{7}
+\contentsline {chapter}{\numberline {3}Clustering}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {section}{\numberline {3.1}KNN Algorithm}{8}
+\contentsline {section}{\numberline {3.2}Algorithm}{9}
+\contentsline {subsection}{\numberline {3.2.1}Steps in KNN algorithm}{10}
+\contentsline {section}{\numberline {3.3}Advantages}{10}
+\contentsline {section}{\numberline {3.4}Disadvantages}{11}
+\contentsline {chapter}{\numberline {4}Dataset}{12}
+\contentsline {section}{\numberline {4.1}Training Dataset}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {section}{\numberline {4.2}Validation Dataset}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {section}{\numberline {4.3}Test Dataset}{13}
+\contentsline {chapter}{\numberline {5}Conclusion}{14}
+\contentsline {chapter}{References}{15}
